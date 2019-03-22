@@ -9,7 +9,7 @@ public class UserVO {
 	private String upw;
 	private String uname;
 	private int upoint;
-	private Date regdate;
+	private Date regdate; 
 	
 	public Date getRegdate() {
 		return regdate;
